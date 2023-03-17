@@ -4,4 +4,6 @@
 
 ### This is the interface Style Guide for the Barter Bin Web Application (Capstone Project).
 
+### Web Link for viewing: https://barterbin-styleguide.netlify.app/
+
 Project by: Arnetta Knight
